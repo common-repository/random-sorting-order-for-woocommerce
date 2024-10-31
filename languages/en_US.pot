@@ -1,0 +1,87 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: random-sorting-order-for-woocommerce\n"
+"POT-Creation-Date: 2018-03-08 10:11+0530\n"
+"PO-Revision-Date: 2016-09-27 10:11+0530\n"
+"Last-Translator: \n"
+"Language-Team: Prashant Baldha <pmbaldha@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;_n;esc_attr__;_ex;"
+"esc_attr_x;esc_attr_x;esc_html_x;esc_html_x;_n_noop;_nx_noop;"
+"translate_nooped_plural;_ex\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: random-sorting-order-for-woocommerce.php:77
+msgid "Random Sorting Order for WooCommerce"
+msgstr ""
+
+#: random-sorting-order-for-woocommerce.php:77
+msgid "Random Sorting Order"
+msgstr ""
+
+#: random-sorting-order-for-woocommerce.php:100
+msgid "Random"
+msgstr ""
+
+#: random-sorting-order-for-woocommerce.php:107
+msgid "Featured Product First For WooCommerce"
+msgstr ""
+
+#: random-sorting-order-for-woocommerce.php:108
+msgid "Track Emails for view and click by Email Tracker free wordpress plugin"
+msgstr ""
+
+#: random-sorting-order-for-woocommerce.php:110
+msgid "Getting started"
+msgstr ""
+
+#: random-sorting-order-for-woocommerce.php:112
+#, php-format
+msgid ""
+"To configure Random Soring Order For WooCommerce, Please %s click here%s "
+"(%sAdmin Dashboard > WooCommerce > Settings > Random Sorting Order%s). You "
+"will find screen as below:"
+msgstr ""
+
+#: random-sorting-order-for-woocommerce.php:117
+msgid "Thank You for using Random Soring Order For WooCommerce"
+msgstr ""
+
+#: random-sorting-order-for-woocommerce.php:124
+#, php-format
+msgid ""
+"Free version of plugin displays featured product first on shop, archive and "
+"search page with woocommerce default sorting. If you would like to sorting "
+"everyewhere, Please %sUpgrade Now!%s"
+msgstr ""
+
+#: random-sorting-order-for-woocommerce.php:131
+#, php-format
+msgid ""
+"%sPro version%s of plugin can change the label of random sorting option in "
+"sort dropdown and can change the position in sorting dropdown"
+msgstr ""
+
+#: random-sorting-order-for-woocommerce.php:144
+#, php-format
+msgid ""
+"If you face any trouble, Please feel free to email me on %s any time. I am "
+"always happy to help you."
+msgstr ""
+
+#: random-sorting-order-for-woocommerce.php:146
+#, php-format
+msgid "Please feel free to open support ticket on %s, If you found any issue."
+msgstr ""
+
+#: random-sorting-order-for-woocommerce.php:146
+msgid "Support Forum"
+msgstr ""
